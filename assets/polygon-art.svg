@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 620" width="100%" height="100%">
+  <!-- Polygonal faceted crystals on left margin -->
+  <!-- Top Ruby / Crimson group -->
+  <polygon points="0,0 80,0 45,65 0,40" fill="#991B1B" />
+  <polygon points="80,0 120,45 45,65" fill="#DC2626" />
+  <polygon points="0,40 45,65 20,120 0,95" fill="#B91C1C" />
+  <polygon points="45,65 105,100 120,45" fill="#EF4444" />
+  <polygon points="45,65 60,145 20,120" fill="#EA580C" />
+  <polygon points="45,65 105,100 60,145" fill="#F97316" />
+
+  <!-- Orange & Golden Yellow group -->
+  <polygon points="105,100 155,145 120,45" fill="#FB923C" />
+  <polygon points="105,100 155,145 130,205" fill="#F59E0B" />
+  <polygon points="105,100 60,145 130,205" fill="#FBBF24" />
+  
+  <!-- Right pointing pointer triangle (like in reference) -->
+  <polygon points="155,145 180,165 155,185" fill="#F59E0B" />
+
+  <!-- Peach / Coral transition -->
+  <polygon points="130,205 155,245 110,270" fill="#FDE68A" />
+  <polygon points="60,145 130,205 75,230" fill="#EA580C" />
+  <polygon points="75,230 130,205 110,270" fill="#F97316" />
+
+  <!-- Deep Blue / Cyan / Teal group -->
+  <polygon points="0,95 20,120 0,180" fill="#1E3A8A" />
+  <polygon points="20,120 60,145 0,180" fill="#1D4ED8" />
+  <polygon points="0,180 60,145 35,220" fill="#2563EB" />
+  <polygon points="60,145 75,230 35,220" fill="#0284C7" />
+  <polygon points="0,180 35,220 0,270" fill="#0369A1" />
+  <polygon points="35,220 75,230 45,305" fill="#0EA5E9" />
+  <polygon points="75,230 110,270 45,305" fill="#06B6D4" />
+  
+  <polygon points="0,270 45,305 15,365" fill="#0E7490" />
+  <polygon points="45,305 110,270 85,355" fill="#0891B2" />
+  <polygon points="0,270 15,365 0,380" fill="#155E75" />
+  <polygon points="45,305 85,355 15,365" fill="#22D3EE" />
+
+  <!-- Lower facets -->
+  <polygon points="15,365 85,355 55,420" fill="#06B6D4" />
+  <polygon points="0,380 15,365 0,440" fill="#0891B2" />
+  <polygon points="0,440 15,365 55,420" fill="#38BDF8" />
+  <polygon points="0,440 55,420 20,490" fill="#0284C7" />
+  <polygon points="55,420 75,470 20,490" fill="#00E5FF" />
+  <polygon points="0,490 20,490 0,550" fill="#1E3A8A" />
+  <polygon points="20,490 50,540 0,550" fill="#2563EB" />
+
+  <!-- Floating triangle accents -->
+  <polygon points="120,380 135,405 110,415" fill="#06B6D4" opacity="0.8" />
+  <polygon points="90,445 105,465 85,475" fill="#38BDF8" opacity="0.7" />
+</svg>
